@@ -7,14 +7,14 @@ It's very basic and not very tested, although its not going to cause any damage.
 
 
 ## To install
-Copy the contents of `whmsidebar.bookmarklet.js`, create a new bookmark in your browser (ideally on the Bookmarks tab) and paste the bookmarklet in the 'location' box. Name it whatever you like.
+Copy the contents of [`whmsidebar.bookmarklet`](https://raw.githubusercontent.com/BenTomsett/whm-sidebar/main/whmsidebar.bookmarklet), create a new bookmark in your browser (ideally on the Bookmarks tab) and paste the bookmarklet in the 'location' box. Name it whatever you like.
 
 
 ## Images
 **Before**
 
-<img width="929" alt="before" src="https://user-images.githubusercontent.com/25419125/170880551-4cd4bed9-be37-4f36-ad81-b0ff797874a5.png">
+<img width="500" alt="before" src="https://user-images.githubusercontent.com/25419125/170880551-4cd4bed9-be37-4f36-ad81-b0ff797874a5.png">
 
 **After**
 
-d<img width="929" alt="after" src="https://user-images.githubusercontent.com/25419125/170880560-be893b0c-9270-405e-b1d6-a1859723907d.png">
+<img width="500" alt="after" src="https://user-images.githubusercontent.com/25419125/170880560-be893b0c-9270-405e-b1d6-a1859723907d.png">
