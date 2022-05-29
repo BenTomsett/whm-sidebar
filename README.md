@@ -1,5 +1,5 @@
 # whm-sidebar
-Minimise the new WHM sidebar
+Minimise the new WHM/cPanel sidebar
 
 The new WHM/cPanel "Jupiter" theme has a new sidebar, which isn't collapsible (unless you have the browser window at a very small width).
 This bookmarklet is essentially a toggle to show and hide the WHM toolbar, and it increases the width of the content to fill the new full width of the window.
